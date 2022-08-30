@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Louay-Barraq
-- 👀 I’m interested in Developpment
+- 👀 I’m interested in Development
 - 🌱 I’m currently learning Python and Kotlin 
-- 💞️ I'm still an intermediate in Python that can use Flask , Pygame and Numpy . 
+- 💞️ I'm still an intermediate in Python that can use Flask, Pygame, PyQt and Numpy . 
 - 📫 To reach me , You can contact me on my Social Media Accounts   
 
 <!---
