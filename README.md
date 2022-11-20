@@ -3,8 +3,8 @@
 - 🌱 I use Python and C when coding and I’m currently learning Kotlin  
 - 💞️ I'm still an intermediate in Python that can use Flask, Pygame, PyQt and Numpy . 
 - 📫 To reach me , You can contact me on my Social Media Accounts
-- **Facebook** : Louay Barraq
-- **Instagram** : @louaybarraq
+      - **Facebook** : Louay Barraq
+      - **Instagram** : @louaybarraq
 - **Twitter** : @LouayBarraq
 - **LinkedIn** : Louay Barraq   
 
