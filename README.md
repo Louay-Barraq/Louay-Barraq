@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Louay-Barraq, A Computer Engineering Student who is currently in his 3rd and final year.
-- 👀 I’m interested in Mobile Apps and Game Development.
-- 🌱 I use mainly Flutter, Python and C when coding in addition to Kotlin.  
+- 👋 Hi, I’m @Louay-Barraq, A Software Engineering Student and Computer Engineering Graduate.
+- 👀 I’m interested in Mobile Apps, Artificial Intelligence and Game Development.
+- 🌱 I use mainly Flutter, Python and C/C++ when coding in addition to Kotlin.  
 - 💞️ In Python, I always use Pygame, PyQt, Django, and Flask. 
 - 📫 To reach me, You can contact me on my Social Media Accounts:
   - **Facebook** : Louay Barraq
